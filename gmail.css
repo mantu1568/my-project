@@ -1,0 +1,101 @@
+{			backgroung:silver;
+			color:black;
+}
+.gmaildiv{												/* gmail is a class of ist div */
+			background-color:#E5E4E2;
+			color:black;
+			margin-right:505px;
+			float:right;
+			width:23%;
+			height:50%;
+		
+}
+.image{
+			border-radius:50%;
+			width:80;
+}
+.textboxclass{
+			width:250px;
+			height:35px;
+			margin-left:30px;
+			border-radius:3px 3px 3px 3px;
+			border-bottom-color:cornflowerblue;
+			border:1%;
+}
+.botton{
+			background-color:#1569c7;
+			color:white;
+			width:250px;
+			height:35px;
+			margin-left:30px;
+			border-bottom-color:blue;
+}
+.needhelp{	
+			color:#1569c7;
+			margin-left:70%;
+			font-family:Calibri Light;
+			text-decoration:none;
+			
+}
+.createaccount{
+			color:#1569c7;
+			float:center;
+			margin-left:48%;
+			margin-right:5%;
+			font-family:Calibri Light;
+			text-decoration:none;
+			
+}
+.p{
+			color:black;
+			font-family:Calibri Light;
+}
+.next{																		/*next is a class of second div */
+			background-color:dodgerblue;
+			width:250px;
+			height:33px;
+			margin-left:30px;
+			border-radius:3px 3px 3px 3px;
+}
+.next1{		
+			color:white;																/* next1 is a class of next link*/
+			margin-left:42%;
+			text-decoration:none;
+			font-family:Calibri Light;
+}
+.aboutgoogle{
+			color:gray;
+			text-decoration:none;
+			font-family:Calibri Light;
+			margin-right:1%;
+			
+			
+}
+.privacy{
+			
+			color:gray;
+			text-decoration:none;
+			font-family:Calibri Light;
+			margin-right:1%;
+			
+			
+}
+.terms{
+			
+			color:gray;
+			text-decoration:none;
+			font-family:Calibri Light;
+			margin-right:1%;
+}			
+
+.help{
+			
+			color:gray;
+			text-decoration:none;
+			font-family:Calibri Light;
+			margin-right:1%;
+		
+}
+.p1{
+
+}
